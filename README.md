@@ -5,7 +5,7 @@ legit data) whilst connected to a free café network. Thanks to this, my MAC
 address was blackisted. Ooops.
 
 After a little research, I could put together this script which assigns a new,
-random MAC address to your en0 & en1 interfaces.
+random MAC address to your **en0** & **en1** interfaces.
 
 Tested and working on:
 - OSX Yosemite 10.10.5, MacBook Pro 13-inch Mid-2010.
