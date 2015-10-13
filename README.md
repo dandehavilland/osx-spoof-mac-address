@@ -1,7 +1,7 @@
 # osx-spoof-mac-address
 
 I recently left my bittorrent client open and active (down/uploading totally
-legit data) whilst connected to a free café network. Thanks to this, my MAC
+legit data ofcourse...) whilst connected to a free café network. Thanks to this, my MAC
 address was blackisted. Ooops.
 
 After a little research, I could put together this script which assigns a new,
