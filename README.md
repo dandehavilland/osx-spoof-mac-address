@@ -14,7 +14,6 @@ I welcome your reports of working/not working, please file an issue.
 
 ## Usage
 
-- Turn off Wifi
 - `./spoof-mac-address`
 - Enter sudo password when prompted
 - Turn on Wifi
